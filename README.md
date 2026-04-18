@@ -1,2 +1,2 @@
 # braille-translator
-Braille to text and speech conversion project
+Braille to text and voice translator project
